@@ -11,7 +11,6 @@ REGION = (TOP_LEFT_X, TOP_LEFT_Y, WIDTH, HEIGHT)
 
 
 def aimTrainer():
-    break_outer_loop = False
     cnt = 0
     time.sleep(3)
     pyautogui.click(950,500)
