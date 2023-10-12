@@ -1,0 +1,2 @@
+def numberMemory():
+    print("lol")
