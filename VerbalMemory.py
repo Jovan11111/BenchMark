@@ -22,7 +22,6 @@ def verbalMemory():
             pyautogui.click(870, 635)
         else:
             allWords.append(word)
-            print(word)
             pyautogui.click(1050, 635)
         cntr += 1
         if cntr > 500:
