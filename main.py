@@ -10,4 +10,4 @@ from VerbalMemory import verbalMemory
 from ChimpTest import chimpTest
 
 
-sequenceMemory()
+chimpTest()
