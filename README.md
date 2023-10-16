@@ -2,8 +2,7 @@
 
 This repository contains a collection of Python scripts developed using PyAutoGUI. These scripts are designed to excel in various Human Benchmark tests and provide efficient automation for tasks involving graphical user interface (GUI) interactions.
 
-## Supported Benchmarks
-
+## Supported [Benchmarks](https://humanbenchmark.com/)
 - Reaction Time
 - Aim Trainer
 - Verbal Memory
